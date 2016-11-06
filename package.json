@@ -1,0 +1,17 @@
+{
+  "name": "omegle-html-mock",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "dependencies": {
+    "html-mock": "https://github.com/alexbinary/html-mock.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  }
+}
